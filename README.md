@@ -1,1 +1,1 @@
-# Intro-to-Python-Game
+First personal coding project that I ever did. Worked with one other person to make a multiplayer game. Used the pygame module to track user input and move their character, as well as the gamebox module which was made by our professor. Play as Donald Trump or Hillary Clinton collecting tweets that fall out of the sky and avoid the "logic" enemies that spawn from the sides of the screen. 
